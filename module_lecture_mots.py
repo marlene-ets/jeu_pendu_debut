@@ -2,6 +2,7 @@
 Il est écrit par Marlene Sanjose dans le cadre du cours MGA802
 """
 
+
 def lire_liste_mots(fichier="mots_pendu.txt", dossier="./ressources"):
     import os
 
